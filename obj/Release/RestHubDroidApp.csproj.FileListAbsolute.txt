@@ -1,0 +1,38 @@
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\RestHubDroidApp.dll
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\RestHubDroidApp.pdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\RestHubDroidApp.RestHubDroidApp.apk
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\RestHubDroidApp.RestHubDroidApp-Signed.apk
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\RestHubDroidApp.dll
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\RestHubDroidApp.pdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\bin\RestHubDroidApp.RestHubDroidApp.apk
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\res\layout\main.xml
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\res\values\strings.xml
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\res\drawable\icon.png
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\R.cs.flag
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\uploadflags.txt
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\RestHubDroidApp.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\Java.Interop.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\Mono.Android.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\mscorlib.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.Core.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.Net.Http.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.Xml.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\RestHubDroidApp.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\System.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\RestHubDroidApp.csprojResolveAssemblyReference.cache
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\RestHubDroidApp.dll.mdb
+C:\Google Drive\Projects\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\RestHubDroidApp.csprojResolveAssemblyReference.cache
+C:\Google Drive\Projects\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\RestHubDroidApp.dll
+C:\Google Drive\Projects\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Release\RestHubDroidApp.pdb

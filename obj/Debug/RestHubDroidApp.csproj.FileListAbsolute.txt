@@ -1,0 +1,14 @@
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Debug\RestHubDroidApp.dll
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Debug\RestHubDroidApp.pdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Debug\RestHubDroidApp.RestHubDroidApp.apk
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Debug\RestHubDroidApp.RestHubDroidApp-Signed.apk
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\RestHubDroidApp.dll
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\RestHubDroidApp.pdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\android\bin\RestHubDroidApp.RestHubDroidApp.apk
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\res\layout\main.xml
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\res\values\strings.xml
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\res\drawable\icon.png
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\R.cs.flag
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\uploadflags.txt
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\obj\Debug\RestHubDroidApp.dll.mdb
+C:\Users\Dhara\OneDrive\Project\RestaurantHub\RestHubDroidApp\RestHubDroidApp\bin\Debug\RestHubDroidApp.dll.mdb
